@@ -1,2 +1,2 @@
 # DeepFake
-First order model &amp; shangin face
+First order model & changin face
